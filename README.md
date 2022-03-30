@@ -12,3 +12,7 @@ I create a sample-dataset with different number of rows for each month, and a co
 This was supported with two stackoverflow:
 - https://stackoverflow.com/questions/71579106/how-to-train-with-timeseriessplit-from-sklearn
 - https://stackoverflow.com/questions/58069691/how-to-create-a-train-test-split-of-time-series-data-by-year
+
+### Next steps
+- Develop a function that does the split
+- Develop a function that takes the split and does the HPO?
