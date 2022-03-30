@@ -8,3 +8,7 @@ If you have two years of monthly data (ex: jan-2020 until dic-2021), you can def
 ## The solution
 
 I create a sample-dataset with different number of rows for each month, and a code sample for the CV-split according each month, with a `GridSearchCV()` code sample application on that split. It considers fixed and variable number of months to train.
+
+This was supported with two stackoverflow:
+- https://stackoverflow.com/questions/71579106/how-to-train-with-timeseriessplit-from-sklearn
+- https://stackoverflow.com/questions/58069691/how-to-create-a-train-test-split-of-time-series-data-by-year
